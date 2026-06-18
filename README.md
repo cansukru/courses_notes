@@ -1,2 +1,2 @@
 # courses_notes
-My course notes
+My courses notes
